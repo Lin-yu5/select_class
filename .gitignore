@@ -1,0 +1,51 @@
+# Logs & Framework
+*.log
+.phpunit.result.cache
+/.phpunit.cache
+
+# Environment & Credentials
+.env
+.env.backup
+.env.production
+/auth.json
+/storage/*.key
+/storage/pail
+
+# Dependencies
+/node_modules
+/vendor
+
+# Frontend Build
+/public/build
+/public/hot
+/public/storage
+/public/fonts-manifest.dev.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Portable Binaries & Local Test Directories
+/php/
+/php8.5.7/
+/test_source/
+*.bak
+
+# IDE & OS Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+/.idea
+/.vscode
+/.cursor/
+/.codex
+/.nova
+/.zed
+.phpactor.json
+_ide_helper.php
+Homestead.json
+Homestead.yaml
