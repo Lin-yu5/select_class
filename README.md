@@ -13,7 +13,7 @@
   - [FastAPI](https://fastapi.tiangolo.com/) + [Uvicorn](https://www.uvicorn.org/) (Port: 8000)
   - [PyMuPDF](https://pymupdf.readthedocs.io/) & [RapidOCR](https://github.com/RapidAI/RapidOCR) (PDF 文字解析與光學文字辨識)
   - [NumPy](https://numpy.org/) & [Pandas](https://pandas.pydata.org/) (強弱項職能矩陣計算)
-- **資料庫 (Database)**: MySQL 8.0+
+- **資料庫 (Database)**: MySQL 8.0+ (以後會陸續更新)
 
 ---
 
